@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006745476810",
+    "project_id": "foodmap-bdbd3",
+    "storage_bucket": "foodmap-bdbd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006745476810:android:8c65f4c80edbb4f1249e33",
+        "android_client_info": {
+          "package_name": "com.example.foodmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDdyyUydQ4BcI1nGiczsThqILXgKC9V3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
